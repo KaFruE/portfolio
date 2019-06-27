@@ -41,3 +41,8 @@ https://github.com/KaFruE/study_data-analysis
 https://github.com/KaFruE/study_NLP
 3. Spark를 활용한 머신러닝
 https://github.com/KaFruE/study_spark
+
+--------------------------
+
+### 수료 프로젝트(산업융합형 인공지능 청년혁신가 양성과정 - KSA 한국표준협회)
+1. Python for Data analysis
