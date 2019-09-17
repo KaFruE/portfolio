@@ -16,7 +16,7 @@ https://github.com/KaFruE/mindwave
 4. 증상에 따른 병원 검색 어플리케이션
 https://github.com/KaFruE/hospital_app
 5. 청각장애인을 위한 위험 인지 어플리케이션
-
+https://github.com/KaFruE/Danger_Detect
 
 --------------------------
 
