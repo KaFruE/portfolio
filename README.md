@@ -17,6 +17,8 @@ https://github.com/KaFruE/mindwave
 https://github.com/KaFruE/hospital_app
 5. 청각장애인을 위한 위험 인지 어플리케이션
 https://github.com/KaFruE/Danger_Detect
+6. PVC 실시간 모니터링 시스템
+https://github.com/KaFruE/dashboard
 
 --------------------------
 
